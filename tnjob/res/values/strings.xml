@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   <string name="Type">Type</string>
+   <string name="Position">Position</string>
+   <string name="Location">Location</string>
+   <string name="Description">Description</string>
+    <string name="app_name">tnjob</string>
+    <string name="Offres">Offres</string>
+    <string name="Authentification">Authentification</string>
+    <string name="Connexion">Connexion</string>
+    <string name="login">Login</string>
+    <string name="mpt">mot de passe</string>
+    <string name="EE">Espace
+          Entreprise</string>
+    <string name="Accueil">Accueil</string>
+    <string name="Postuler">Postuler</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_acceuil">Acceuil</string>
+   
+
+    <color name="col8">#2e728e</color>
+    <color name="col9">#3b9bc4</color>
+    <color name="col10">#FFFFFF</color>
+    <color name="col11">#d84066</color>
+    <color name="col12">#f80844</color>
+
+    <string name="title_activity_detaille">Detaille</string>
+    <string name="title_activity_listoffre">Listoffre</string>
+    <string name="title_activity_listoffrecat">Listoffrecat</string>
+    <string name="title_activity_inscription">Inscription</string>
+    <string name="title_activity_authentification">Authentification</string>
+    <string name="title_activity_espace_entre">EspaceEntre</string>
+
+</resources>
